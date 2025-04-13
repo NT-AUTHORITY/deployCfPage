@@ -8,15 +8,15 @@
 ### How to get these params?
 #### API Key
 1. Open the [Cloudflare Dashboard](https://dash.cloudflare.com).
-2. Navigate to Manage Account => Account API Tokens.
-   Or just use [this link](https://dash.cloudflare.com/?to=/:account/api-tokens)
+2. Navigate to Manage Account => Account API Tokens.  
+   Or just use [this link](https://dash.cloudflare.com/?to=/:account/api-tokens).
 3. Click `Create token`.
 4. Create a new token with the `Edit Cloudflare Workers` template.
 5. Copy your token and store it carefully in your notepad.
 #### Site Name
 1. Open the [Cloudflare Dashboard](https://dash.cloudflare.com).
 2. Navigate to Workers and Pages => <Your project>.  
-   Or just use [this link](https://dash.cloudflare.com/?to=/:account/workers-and-pages)
+   Or just use [this link](https://dash.cloudflare.com/?to=/:account/workers-and-pages).
 3. Copy the name of the project. For example: `ntblog`.
 4. Store it carefully in your notepad.
 #### Account ID
