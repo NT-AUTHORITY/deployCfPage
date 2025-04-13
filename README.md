@@ -3,7 +3,7 @@
 
 ## Usage
 ```powershell
-.\deployCfPage.ps1 -apiKey "<Your API Key>" -siteName "ntblog" -accountId "<Your account ID>"
+.\deployCfPage.ps1 -apiKey "<Your API Key>" -siteName "<Your Project Name>" -accountId "<Your account ID>"
 ```
 ### How to get these params?
 #### API Key
